@@ -1,0 +1,254 @@
+.1_2 { 
+	overflow:hidden;
+}.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1292px;
+	height:845px;
+	position:absolute;
+}.e2_3 { 
+	width:1292px;
+	height:869px;
+	position:absolute;
+	left:0px;
+	top:-24px;
+	background-image:url(images/fondodash_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e4_13 { 
+	width:422px;
+	height:171px;
+	position:absolute;
+	left:775px;
+	top:648px;
+	background-image:url(images/subidos_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e4_14 { 
+	color:rgba(255, 255, 255, 1);
+	width:306px;
+	height:17px;
+	position:absolute;
+	left:775px;
+	top:609px;
+	font-family:Inter;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}.e2_4 { 
+	color:rgba(255, 255, 255, 1);
+	width:237px;
+	height:17px;
+	position:absolute;
+	left:92px;
+	top:34px;
+	font-family:Inter;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}.e4_5 { 
+	width:232px;
+	height:151px;
+	position:absolute;
+	left:171px;
+	top:402px;
+	background-image:url(images/encuesta1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e4_6 { 
+	color:rgba(255, 255, 255, 1);
+	width:232px;
+	height:16px;
+	position:absolute;
+	left:171px;
+	top:337px;
+	font-family:Inter;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}.e4_7 { 
+	width:232px;
+	height:164px;
+	position:absolute;
+	left:171px;
+	top:648px;
+	background-image:url(images/encuesta2_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e4_8 { 
+	color:rgba(255, 255, 255, 1);
+	width:228px;
+	height:55px;
+	position:absolute;
+	left:182px;
+	top:578px;
+	font-family:Inter;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}.e4_9 { 
+	width:422px;
+	height:162px;
+	position:absolute;
+	left:775px;
+	top:153px;
+	background-image:url(images/fotosreales_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e4_10 { 
+	color:rgba(255, 255, 255, 1);
+	width:233px;
+	height:17px;
+	position:absolute;
+	left:775px;
+	top:107px;
+	font-family:Inter;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}.e4_11 { 
+	width:422px;
+	height:172px;
+	position:absolute;
+	left:775px;
+	top:402px;
+	background-image:url(images/reportes_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e4_12 { 
+	color:rgba(255, 255, 255, 1);
+	width:245px;
+	height:17px;
+	position:absolute;
+	left:775px;
+	top:359px;
+	font-family:Inter;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}.e4_15 { 
+	background-color:rgba(71.51288464665413, 94.56250101327896, 5.910156313329935, 1);
+	width:194px;
+	height:116px;
+	position:absolute;
+	left:190px;
+	top:171px;
+}.e4_16 { 
+	color:rgba(255, 255, 255, 1);
+	width:180px;
+	height:17px;
+	position:absolute;
+	left:197px;
+	top:153px;
+	font-family:Inter;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}.e4_17 { 
+	color:rgba(255, 255, 255, 1);
+	width:109px;
+	height:44px;
+	position:absolute;
+	left:210px;
+	top:205px;
+	font-family:Inter;
+	text-align:right;
+	font-size:36px;
+	letter-spacing:0;
+}.e6_19 { 
+	background-color:rgba(51.92929029464722, 123.24999645352364, 8.216666746884584, 1);
+	width:83px;
+	height:845px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e4_18 { 
+	width:46px;
+	height:46px;
+	position:absolute;
+	left:18px;
+	top:19px;
+	background-image:url(images/logo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e6_20 { 
+	width:42px;
+	height:41px;
+	position:absolute;
+	left:22px;
+	top:89px;
+	background-image:url(images/lupa_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e6_21 { 
+	width:57px;
+	height:58px;
+	position:absolute;
+	left:15px;
+	top:154px;
+	background-image:url(images/carta_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e6_22 { 
+	width:53px;
+	height:51px;
+	position:absolute;
+	left:14px;
+	top:317px;
+	background-image:url(images/grafico_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e6_23 { 
+	width:53px;
+	height:51px;
+	position:absolute;
+	left:11px;
+	top:397px;
+	background-image:url(images/enviar_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e6_24 { 
+	width:61px;
+	height:61px;
+	position:absolute;
+	left:10px;
+	top:543px;
+	background-image:url(images/calendario_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e6_25 { 
+	width:54px;
+	height:48px;
+	position:absolute;
+	left:15px;
+	top:472px;
+	background-image:url(images/telefono_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e6_26 { 
+	width:59px;
+	height:55px;
+	position:absolute;
+	left:14px;
+	top:234px;
+	background-image:url(images/persona_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e7_27 { 
+	width:233px;
+	height:219px;
+	position:absolute;
+	left:473px;
+	top:241px;
+	background-image:url(images/grafico2_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e7_28 { 
+	width:233px;
+	height:215px;
+	position:absolute;
+	left:473px;
+	top:525px;
+	background-image:url(images/grafico2_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
